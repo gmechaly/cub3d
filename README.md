@@ -26,7 +26,7 @@ The goal is to master **mathematical projections**, **texture mapping**, and **e
 
 ## 📐 The Raycasting Logic
 
-The engine works by casting a "ray" for every vertical slice of the screen. By calculating the distance from the player to the first wall hit, we can determine the height of the wall to be drawn.
+The engine works by casting 240 "rays" that each represent a thin vertical band of pixels on the window. By calculating the distance from the player to the first wall hit, we can determine the height of the wall to be drawn.
 
 1. **Calculate Ray Direction**: Based on the player's FOV (Field of View).
 2. **DDA Algorithm**: The **Digital Differential Analyzer** is used to jump from one grid line to the next until a wall is hit.
