@@ -12,8 +12,6 @@
 
 The goal is to master **mathematical projections**, **texture mapping**, and **event-driven programming** to create a fluid first-person perspective.
 
-> "A simple line-casting logic that creates the illusion of a third dimension."
-
 ---
 
 ## 🛠️ Features
