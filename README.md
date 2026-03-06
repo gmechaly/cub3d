@@ -2,7 +2,7 @@
 
 ## ✍️ A personal note
 
-**cub3D** has been my favourite project from 42 Common Core. It explores real-time execution with inputs management, memory optimization, and a large liberty to use our creativity. It was the most fun project to do, from discovering the raycasting method to creating funny maps and mazes. This project has made me want to create my own videogame someday.
+**cub3D** has been my favourite project from 42 Common Core. It explores real-time execution with inputs management, memory optimization, and a large liberty to use our creativity. It was the most fun project to do, from creating the first version, a 2D map seen from above, where you can control the player, this is used as a minimap in the game. And from that, creating the 3D world by implementing the raycasting method (that was quite painful ^^), handling textures, creating an animated sprite and creating funny maps. This project has made me want to create my own videogame someday.
 
 ---
 
