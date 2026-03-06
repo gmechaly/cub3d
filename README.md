@@ -2,7 +2,7 @@
 
 ## ✍️ A personal note
 
-**cub3D** has been my favourite project from 42 Common Core. It explores real-time execution with input's management, optimization to avoid lags, and a large liberty to use uour creativity. It was the most fun project to do, from discovering the raycasting method to creating funny maps. This project has made me want to create my own videogame someday.
+**cub3D** has been my favourite project from 42 Common Core. It explores real-time execution with inputs management, memory optimization, and a large liberty to use our creativity. It was the most fun project to do, from discovering the raycasting method to creating funny maps and mazes. This project has made me want to create my own videogame someday.
 
 ---
 
