@@ -1,4 +1,4 @@
-# cub3D - @42Born2Code
+# cub3D - *rdalal & gmechaly*
 
 ## ✍️ A personal note
 
