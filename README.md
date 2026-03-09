@@ -99,3 +99,7 @@ C 225,30,0
 
 * **MiniLibX**: Correctly installed for your OS (Linux/X11 or macOS/Metal).
 * **Math Library**: `-lm` flag for trigonometric functions.
+
+---
+
+*Developed as part of the 42 Network curriculum.*
